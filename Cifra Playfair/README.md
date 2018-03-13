@@ -1,3 +1,5 @@
+# Relatório da Atividade
+
   Este projeto foi feito em conjunto com o meu colega de sala Ernandes Azevedo. Resolvemos fazer o código em Javascript pois era uma linguagem que nunca tinhamos utilizado para resolver esse tipo de atividade, criando assim um desafio e interesse maior da nossa parte.
 
 Juntos, tentamos resolver o problema em partes. Estabelecemos a seguinte ordem:
