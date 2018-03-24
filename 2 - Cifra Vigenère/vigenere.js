@@ -57,16 +57,16 @@ function descriptografarMensagem(chave){
 }
 
 function iniciar(){
-    mensagem = prompt.question("Insira a mensagem:").toUpperCase();
-
     switch(option){
         case '1':
+            mensagem = prompt.question("Insira a mensagem:").toUpperCase();
             chave = prompt.question("Insira a chave:").toUpperCase();
             formatarChave();
             criptografarMensagem();
             descriptografarMensagem(chave);
             break;
         case '2':
+            mensagem = "mllvo gjw axie, viog vlgbg dfptll n zoe fe gyyom j xof nr tuegr fg tfusfe ayqwxt rrpjnfy xg, mlm nbnju, tphuc kzg fltrf i ytamuyvi ig pzi qs or rrzzrgmtt spg acwfq, ux nnz xj eiqln ry akgphrfy"
             var mensagensDescriptografadas = "";
             rl.on('line', function (line) {
 
