@@ -1,4 +1,4 @@
-# Segurança de Informação
+# Segurança da Informação
 ![enter image description here](https://www.quixada.ufc.br/wp-content/Arquivos_Site/Brasao%20Horizontal%20UFC%20Policromatico.png)
 
 Repositório pessoal das minhas atividades na disciplina de Segurança da Informação.
