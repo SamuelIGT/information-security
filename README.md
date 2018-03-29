@@ -7,5 +7,8 @@ Repositório pessoal das minhas atividades na disciplina de Segurança da Inform
 
  1. [**Cifra Playfair**](https://github.com/SamuelIGT/information-security/tree/master/Cifra%20Playfair)
 	 >Criação do algoritmo.
- 3. [**Cifra de Vigenère**](https://github.com/SamuelIGT/information-security/tree/master/2%20-%20Cifra%20Vigen%C3%A8re)
+ 2. [**Cifra de Vigenère**](https://github.com/SamuelIGT/information-security/tree/master/2%20-%20Cifra%20Vigen%C3%A8re)
 	 >Criação do algoritmo.
+	 
+ 3. [**Questões sobre Chaves e Certificados**](https://github.com/SamuelIGT/information-security/tree/master/03_cifras)
+	 >Respostas das perguntas feitas em sala.
