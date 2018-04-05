@@ -7,8 +7,20 @@ Repositório pessoal das minhas atividades na disciplina de Segurança da Inform
 
  1. [**Cifra Playfair**](https://github.com/SamuelIGT/information-security/tree/master/Cifra%20Playfair)
 	 >Criação do algoritmo.
+	 
  2. [**Cifra de Vigenère**](https://github.com/SamuelIGT/information-security/tree/master/2%20-%20Cifra%20Vigen%C3%A8re)
 	 >Criação do algoritmo.
 	 
  3. [**Questões sobre Chaves e Certificados**](https://github.com/SamuelIGT/information-security/tree/master/03_cifras)
 	 >Respostas das perguntas feitas em sala.
+	 
+ 4. [**Chave gpg**](https://github.com/SamuelIGT/information-security/tree/master/04_gpg)
+	 >- criar, colocar foto e publicar sua chave no servidor remoto
+	 >- importar a chave de outra pessoa do servidor remoto
+	 >- enviar uma mensagem assinada em texto plano
+	 >- enviar um arquivo .doc com assinatura em arquivo anexo
+	 >- enviar um mensagem de texto criptografada em texto plano
+	 >- enviar um arquivo criptografado
+	 >- assinar a chave do seu colega e reenviar ao servidor
+	 >- verificar a assinatura no servidor remoto
+	 >- revogar a sua chave no servidor remoto utilizando o certificado
