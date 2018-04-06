@@ -7,7 +7,7 @@ Para realizar as tarefas da atividade levei em torno de 5 horas. Tive que refaze
 
 ## Os passos
 
-	A primeira coisa feita foi a criação da chave. Através do comando `gpg --gen-key`
+-	A primeira coisa feita foi a criação da chave. Através do comando `gpg --gen-key`
 ![comando para gerar chave](https://github.com/SamuelIGT/information-security/raw/master/04_gpg/images/1-criar_chave.png)
 ![comando para gerar chave (continuação)](https://github.com/SamuelIGT/information-security/raw/master/04_gpg/images/1-cria_%20chave%20(2).png)
 
