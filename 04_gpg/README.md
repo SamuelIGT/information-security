@@ -2,7 +2,9 @@
 
 # Relatório da Atividade
 Eu comecei a atividade em sala, com o **Gleydson Rodrigues**. Fizemos até a parte de assinar uma chave. Em casa, refiz os passos que fizemos em sala e terminei todo o resto que faltava. As tarefas foram feitas de acordo com o que foi pedido na [página do github da disciplina](https://github.com/senapk/seg_2018_1), com a ajuda do tutorial postado no [dontpad.com/segurancaufc](dontpad.com/segurancaufc) e outros tutoriais complementares que encontrei.
+
 Não tive muitas dificuldades durante a atividade. O tutorial no dontpad me ajudou na maior parte da atividade. Quando precisei de algum comando que não estava presente no tutorial, uma rápida pesquisa no google já solucionava o problema.
+
 Para realizar as tarefas da atividade levei em torno de 5 horas. Tive que refazer os passos mais de uma vez pois na primeira vez que fiz, eu não tinha tirado screeshots das telas. Senti mais dificuldades para fazer o relatório, o que me fez demorar mais tempo para concluir a atividade.
 
 ## Os passos
