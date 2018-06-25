@@ -28,3 +28,6 @@ Repositório pessoal das minhas atividades na disciplina de Segurança da Inform
 5. [**Relatório das Práticas**](https://github.com/SamuelIGT/information-security/tree/master/Praticas)
 	 >- TOR
 	 >- XSS
+	 >- Backdoor
+	 >- Command Injection
+	 >- SQL Injection
