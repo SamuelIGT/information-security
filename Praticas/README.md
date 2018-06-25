@@ -10,5 +10,5 @@
 
 5. [**SQL Injection**](https://github.com/SamuelIGT/information-security/tree/master/Praticas/SQL%20Injection)
 
-6. [**SQL Injection**](https://github.com/SamuelIGT/information-security/tree/master/Praticas/IDS)
+6. [**IDS**](https://github.com/SamuelIGT/information-security/tree/master/Praticas/IDS)
 
