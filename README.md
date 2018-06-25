@@ -24,3 +24,7 @@ Repositório pessoal das minhas atividades na disciplina de Segurança da Inform
 	 >- assinar a chave do seu colega e reenviar ao servidor
 	 >- verificar a assinatura no servidor remoto
 	 >- revogar a sua chave no servidor remoto utilizando o certificado
+
+5. [**Relatório das Práticas**](https://github.com/SamuelIGT/information-security/tree/master/Praticas)
+	 >- TOR
+	 >- XSS
