@@ -10,36 +10,36 @@ Encontrei algumas dificuldades ao seguir o tutorial, porém com a ajuda do coleg
 
  1. Configuração da máquina virtual no VirtualBox.
 
-	 ![1](https://github.com/SamuelIGT/information-security/blob/master/Praticas/Tor/screenshots/1.png)
+	 ![1](https://github.com/SamuelIGT/information-security/blob/master/Praticas/pfSense/screenshots/1.PNG)
 	 
 2. pfSense Instalação
 	
-	![(2.5)](https://github.com/SamuelIGT/information-security/blob/master/Praticas/Tor/screenshots/2.5.png)
+	![(2.5)](https://github.com/SamuelIGT/information-security/blob/master/Praticas/pfSense/screenshots/2.5.PNG)
 	
 3. pfSense - desabilitando firewall
 	
-	![(2)](https://github.com/SamuelIGT/information-security/blob/master/Praticas/Tor/screenshots/2.png)
+	![(2)](https://github.com/SamuelIGT/information-security/blob/master/Praticas/pfSense/screenshots/2.PNG)
 
 4. pfSense - tela inicial
 
-	![(3)](https://github.com/SamuelIGT/information-security/blob/master/Praticas/Tor/screenshots/3.png)
+	![(3)](https://github.com/SamuelIGT/information-security/blob/master/Praticas/pfSense/screenshots/3.PNG)
 
 5. pfSense reconheceu o login da outra máquina
 
-	![(4)](https://github.com/SamuelIGT/information-security/blob/master/Praticas/Tor/screenshots/4.png)
+	![(4)](https://github.com/SamuelIGT/information-security/blob/master/Praticas/pfSense/screenshots/4.PNG)
 
 6. pfSense regras LAN que vem por padrão
 
-	![(5)](https://github.com/SamuelIGT/information-security/blob/master/Praticas/Tor/screenshots/5.png)
+	![(5)](https://github.com/SamuelIGT/information-security/blob/master/Praticas/pfSense/screenshots/5.PNG)
 	
 7. pfSense - identificação das portas que serão utilizadas
 
-	![(6)](https://github.com/SamuelIGT/information-security/blob/master/Praticas/Tor/screenshots/6.png)
+	![(6)](https://github.com/SamuelIGT/information-security/blob/master/Praticas/pfSense/screenshots/6.PNG)
 
 8. pfSense - cadastro da nova regra
 
-	![(7)](https://github.com/SamuelIGT/information-security/blob/master/Praticas/Tor/screenshots/7.png)
+	![(7)](https://github.com/SamuelIGT/information-security/blob/master/Praticas/pfSense/screenshots/7.PNG)
 
 9. pfSense - regra cadastrada com sucesso
 
-	![(9)](https://github.com/SamuelIGT/information-security/blob/master/Praticas/Tor/screenshots/9.png)
+	![(9)](https://github.com/SamuelIGT/information-security/blob/master/Praticas/pfSense/screenshots/9.PNG)
