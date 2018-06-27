@@ -12,3 +12,4 @@
 
 6. [**IDS**](https://github.com/SamuelIGT/information-security/tree/master/Praticas/IDS)
 
+7. [**pfSense**](https://github.com/SamuelIGT/information-security/tree/master/Praticas/pfSense)
